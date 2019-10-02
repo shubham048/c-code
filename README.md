@@ -1,1 +1,2 @@
 # c-code
+cout<<"hi"
