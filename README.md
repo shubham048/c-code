@@ -1,2 +1,2 @@
-# c-code
-cout<<"hi"
+C Code
+cout<<hay;
