@@ -1,2 +1,2 @@
 C Code
-cout<<hay;
+cout<<hey;
